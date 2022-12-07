@@ -8,6 +8,8 @@ My research interest is mathematical morphology in the context of deep learning,
 
 ### Publications
 
+*Groenendijk, R., Dorst, L., Gevers, T. (2022). MorphPool: Efficient Non-linear Pooling & Unpooling in CNNs. 33rd British Machine Vision Conference 2022.* [[paper](https://bmvc2022.mpi-inf.mpg.de/56/)][[github](https://github.com/rickgroen/morphpool)]
+
 _Groenendijk, R., Dorst, L., Gevers, T. (2022). Geometric Back-Propagation in Morphological Neural Networks. TechRxiv preprint._ [[paper](https://www.techrxiv.org/articles/preprint/Geometric_Back-Propagation_in_Morphological_Neural_Networks/20330667)]
 
 _Groenendijk, R., Karaoglu, S., Gevers, T., & Mensink, T. (2021). Multi-loss weighting with coefficient of variations. In Proceedings of the IEEE/CVF winter conference on applications of computer vision (pp. 1469-1478)._ [[paper](https://openaccess.thecvf.com/content/WACV2021/papers/Groenendijk_Multi-Loss_Weighting_With_Coefficient_of_Variations_WACV_2021_paper.pdf)][[github](https://github.com/rickgroen/cov-weighting)]
